@@ -1,0 +1,5 @@
+﻿You wake up in an empty locked classroom. You are allow to take one item, the other will disappear.
+Which will you take?
+
+1. Baseball Bat
+2. Hockey Stick 
