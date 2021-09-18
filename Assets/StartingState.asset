@@ -22,3 +22,6 @@ MonoBehaviour:
 
     2.
     Hockey Stick '
+  nextStates:
+  - {fileID: 11400000, guid: 6f903b1fba93b45c781921177e5bcb59, type: 2}
+  - {fileID: 11400000, guid: f8d6765a1905c4eaf8eea033ccde83be, type: 2}
