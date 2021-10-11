@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66c5f19ffb70645b39837e7756477011, type: 3}
+  m_Name: B3
+  m_EditorClassIdentifier: 
+  storyText: "B3. Escape\nThe door opens and then... nothing. You peak outside and
+    there is nobody there. \n\nWell, thats odd.\n\nHave you just been freed? And
+    by whom? And why?\n\nNo time for that now. We have escaping to do. Whats the
+    plan?\n\n1. Wait a bit longer.\n2. Get running."
+  nextStates:
+  - {fileID: 11400000, guid: 3236f2d4bf83c4b8ab505049e0d1c887, type: 2}
+  - {fileID: 11400000, guid: 309d3ecab4cec45a591804822239610c, type: 2}
